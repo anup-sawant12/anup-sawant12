@@ -34,11 +34,6 @@ A backend-driven web application built with structured database integration and 
 
 ---
 
-## 📫 Connect
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
-
----
 
 ⭐ Always building. Always improving.

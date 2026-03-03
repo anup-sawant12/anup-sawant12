@@ -22,15 +22,7 @@ A backend-driven web application built with structured database integration and 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anup-sawant12&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-sawant12&theme=default" />
-</p>
 
 ---
 

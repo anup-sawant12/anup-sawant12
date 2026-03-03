@@ -10,6 +10,33 @@ I enjoy solving complex problems and turning ideas into working systems.
 
 ---
 
+## 🛠️ Technologies & Languages
+
+### 💻 Programming Languages
+- C++
+- JavaScript
+
+### 🌐 Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Database
+- MySQL
+
+### 🎨 Frontend & Templating
+- EJS
+- HTML
+- CSS
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
 ## 🚀 Projects
 
 ### 🔹 Crime Management System
@@ -21,11 +48,5 @@ A backend-driven web application built with structured database integration and 
 - Database connectivity and query handling
 
 ---
-
-
-
----
-
-
 
 ⭐ Always building. Always improving.
